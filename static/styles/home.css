@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: auto;
+  margin: auto;
+  background-color: whitesmoke;
+  height: auto;
+}
+
+.header {
+  padding-top: 80px;
+  margin: auto;
+  text-align: center;
+  border: solid black 2px;
+  height: 200px;
+  background-color: lightpink;
+  padding: 50px;
+}
+
+.para1 {
+  margin: auto;
+  text-align: center;
+  margin-top: 1em;
+  border: solid black 2px;
+  background-color: lightslategrey;
+  padding: 50px;
+}
+
+.para2 {
+  margin: auto;
+  margin-top: 1em;
+  text-align: center;
+  border: solid black 2px;
+  background-color: lightslategrey;
+  padding: 50px;
+}
